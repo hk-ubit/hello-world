@@ -8,10 +8,13 @@ Clone Git Repository from https://github.com/arbabmushtaq/smartstop
 
 ### Prerequisites
 
-Mongodb - Download & Install MongoDB, and make sure it's running on the default port (27017).
+Mongodb  Download & Install MongoDB, and make sure it's running on the default port (27017).
+
 ExpressJs
-AngularJs - npm install -g @angular/cli
-NodeJs - Download & Install Node.js and the npm package manager.
+
+AngularJs  npm install -g @angular/cli
+
+NodeJs  Download & Install Node.js and the npm package manager.
 
 ### Installing
 
